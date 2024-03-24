@@ -8,7 +8,7 @@
   - I also like cars, especially big angry offroaders 🚙 Nothing beats being lost in a remote beach in your fully kitted 80-series Landcruiser.
 
 - My motto:
-  - Cats over dogs, ass over titties, justice and liberty for all. Amen!
+  - Cats over dogs, ass over titties, justice and liberty for all. Amen 🙏
 
 <h2 align="center">
  My Favorite Tools ⚙️
