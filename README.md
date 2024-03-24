@@ -33,4 +33,6 @@
   <a href="https://forza.net/horizon"/a><img src="https://github.com/xesdoog/xesdoog/assets/66764345/1fccc77e-77e3-43ff-8a47-a15799d844e1"/>
   <a href="https://www.cyberpunk.net/"/a><img src="https://github.com/xesdoog/xesdoog/assets/66764345/482a47a6-946b-42a0-b818-e5f915bbae7d"/>
   <a href="https://assettocorsa.gg/"/a><img src="https://github.com/xesdoog/xesdoog/assets/66764345/a9684200-0223-46e6-acd3-4e7c498d1c83"/>
+  <a href="https://www.beamng.com/game/"/a><img src="https://github.com/xesdoog/xesdoog/assets/66764345/a8fb7f2b-e244-441e-9502-b1f4c02b812a"/>
 </p>
+
