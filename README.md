@@ -8,24 +8,24 @@
   - I also like cars, especially big angry offroaders 🚙 Nothing beats being lost in a remote beach in your fully kitted 80-series Landcruiser.
 
 - My motto:
-  - Cats over dogs, ass over titties, justice and liberty for all.
+  - Cats over dogs, ass over titties, justice and liberty for all. Amen!
 
 <h2 align="center">
- My favorite tools ⚙️
+ My Favorite Tools ⚙️
 </h2>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=git,kali,windows,autocad,ps,vim,vscode,androidstudio,selenium" />
 </p>
 
 <h2 align="center">
- My favorite languages ⌨️
+ My Favorite Languages ⌨️
 </h2>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=css,py,lua,html,js,kotlin" />
 </p>
 
 <h2 align="center">
- My favorite video games 🎮
+ My Favorite Video Games 🎮
 </h2>
 <p align="center">
   <a href="https://www.ubisoft.com/en-us/game/for-honor"/a><img src="https://github.com/xesdoog/xesdoog/assets/66764345/de0c5fd1-f5f4-4fc7-b4bc-1ec8d26a3f3c"/> 
