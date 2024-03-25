@@ -7,7 +7,7 @@ Hello! <img src="https://github.com/xesdoog/xesdoog/assets/66764345/060feb2a-b53
 - I also like cars, especially big angry offroaders 🚙 Nothing beats being lost in a remote beach in your fully kitted 80-series Landcruiser.
 
 - My motto:
-  - Cats over dogs, ass over titties, justice and liberty for all. Amen 🙏
+  - _Cats over dogs, ass over titties, justice and liberty for all._ Amen 🙏
 
 <h2 align="center">
  My Favorite Tools ⚙️
