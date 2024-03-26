@@ -2,22 +2,28 @@
 Hello! <img src="https://github.com/xesdoog/xesdoog/assets/66764345/060feb2a-b53b-4634-8e7b-304e3db616f9" />
 </h1>
 
-- I like fiddling with computers but I don't think of myself as a programmer, I just like to tinker with stuff.
+- 🔎 About Me:
+  - I like fiddling with computers but I don't think of myself as a programmer per se, I just like to tinker with stuff in general.
+  - I also like cars, especially big angry offroaders 🚙 Nothing beats being lost on a remote beach in your [fully kitted 80-series Landcruiser](https://i.pinimg.com/originals/1a/8b/9b/1a8b9b9700866bc35bbdc793cbdc7590.jpg).
 
-- I also like cars, especially big angry offroaders 🚙 Nothing beats being lost in a remote beach in your fully kitted 80-series Landcruiser.
+- 🌐 Languages I Speak:
+  - 🇺🇸 English: ✅ Fluent.
+  - 🇫🇷 French: ✅ Fluent.
+  - ☪ Arabic: ✅ Fluent.
+  - 🦅 Latin: 🟨 Very Basic.
 
-- My motto:
-  - _Cats over dogs, ass over titties, justice and liberty for all._ Amen 🙏
+- 💭 My Motto:
+  - _Cats over dogs, ass over titties, justice and liberty for all._ Amen. 🙏
 
 <h2 align="center">
- My Favorite Tools ⚙️
+ My Favorite OSs and Tools ⚙️
 </h2>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,kali,windows,autocad,ps,vim,vscode,androidstudio,selenium" />
+    <img src="https://skillicons.dev/icons?i=kali,windows,git,autocad,ps,vim,vscode,androidstudio,selenium" />
 </p>
 
 <h2 align="center">
- My Favorite Languages ⌨️
+ My Favorite Coding Languages ⌨️
 </h2>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=css,py,lua,html,js,kotlin" />
