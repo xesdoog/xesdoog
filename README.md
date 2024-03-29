@@ -16,7 +16,7 @@ Hello! <img src="https://github.com/xesdoog/xesdoog/assets/66764345/060feb2a-b53
   - _Cats over dogs, ass over titties, justice and liberty for all._ Amen. 🙏
 
 <h2 align="center">
- My Favorite OSs and Tools ⚙️
+ My Favorite OSs & Tools ⚙️
 </h2>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=kali,windows,git,autocad,ps,vim,vscode,androidstudio,selenium" />
