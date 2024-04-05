@@ -4,17 +4,17 @@
 Hello! <img src="https://github.com/xesdoog/xesdoog/assets/66764345/060feb2a-b53b-4634-8e7b-304e3db616f9" />
 </h1>
 
-- 🔎 About Me:
+- 🔎 **About Me:**
   - I like fiddling with computers but I don't think of myself as a programmer per se, I just like to tinker with stuff in general.
   - I also like cars, especially big angry offroaders 🚙 Nothing beats being lost on a remote beach in your [fully kitted 80-series Landcruiser](https://i.pinimg.com/originals/1a/8b/9b/1a8b9b9700866bc35bbdc793cbdc7590.jpg).
 
-- 🌐 Languages I Speak:
+- 🌐 **Languages I Speak:**
   - 🇺🇸 English: ✅ Fluent.
   - 🇫🇷 French: ✅ Fluent.
   - ☪ Arabic: ✅ Fluent.
   - 🦅 Latin: 🟨 Very Basic.
 
-- 💭 My Motto:
+- 💭 **My Motto:**
   - _Cats over dogs, ass over titties, justice and liberty for all._ Amen. 🙏
 
 <h2 align="center">
