@@ -18,7 +18,7 @@ Hello! <img src="https://github.com/xesdoog/xesdoog/assets/66764345/060feb2a-b53
   - _Cats over dogs, ass over titties, justice and liberty for all._ Amen. 🙏
 
 <h2 align="center">
- My Favorite OSs & Tools ⚙️
+ ⚙️ My Favorite OSs & Tools
 </h2>
 
 <p align="center">
@@ -26,14 +26,14 @@ Hello! <img src="https://github.com/xesdoog/xesdoog/assets/66764345/060feb2a-b53
 </p>
 
 <h2 align="center">
- My Favorite Coding Languages ⌨️
+ ⌨️ My Favorite Coding Languages
 </h2>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=css,py,lua,html,js,kotlin" />
 </p>
 
 <h2 align="center">
- My Favorite Video Games 🎮 
+ 🎮 My Favorite Video Games 
 </h2>
 <p align="center">
   <a href="https://www.ubisoft.com/en-us/game/for-honor"/a><img src="https://github.com/xesdoog/xesdoog/assets/66764345/de0c5fd1-f5f4-4fc7-b4bc-1ec8d26a3f3c"/> 
@@ -45,7 +45,7 @@ Hello! <img src="https://github.com/xesdoog/xesdoog/assets/66764345/060feb2a-b53
 </p>
 
 <h2 align="center">
-My Stats 📊
+📊 My Stats
 </h2>
 
 <p align="center"> 
