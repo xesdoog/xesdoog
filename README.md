@@ -48,5 +48,5 @@ My Stats 📊
 
 <p align="center"> 
 <img align="left" height=200 src="https://github-readme-stats-samurai.vercel.app/api/top-langs/?username=xesdoog&bg_color=000000&hide_border=true&layout=donut&hide_title=true&theme=github_dark"/>
-<img align="right" height=200 src="https://github-readme-stats-samurai.vercel.app/api?username=xesdoog&bg_color=000000&hide_border=true&hide_title=true&hide_rank=false&include_all_commits=true&theme=github_dark"/>
+<img align="right" height=200 src="https://github-readme-stats-samurai.vercel.app/api?username=xesdoog&bg_color=000000&hide_border=true&hide_title=true&hide_rank=true&include_all_commits=true&theme=github_dark"/>
 </p>
