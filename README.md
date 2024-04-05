@@ -18,6 +18,7 @@ Hello! <img src="https://github.com/xesdoog/xesdoog/assets/66764345/060feb2a-b53
 <h2 align="center">
  My Favorite OSs & Tools ⚙️
 </h2>
+
 <p align="center">
     <img src="https://skillicons.dev/icons?i=kali,windows,git,autocad,ps,vim,vscode,androidstudio,selenium" />
 </p>
@@ -39,4 +40,13 @@ Hello! <img src="https://github.com/xesdoog/xesdoog/assets/66764345/060feb2a-b53
   <a href="https://www.cyberpunk.net/"/a><img src="https://github.com/xesdoog/xesdoog/assets/66764345/482a47a6-946b-42a0-b818-e5f915bbae7d"/>
   <a href="https://assettocorsa.gg/"/a><img src="https://github.com/xesdoog/xesdoog/assets/66764345/a9684200-0223-46e6-acd3-4e7c498d1c83"/>
   <a href="https://www.beamng.com/game/"/a><img src="https://github.com/xesdoog/xesdoog/assets/66764345/a8fb7f2b-e244-441e-9502-b1f4c02b812a"/>
+</p>
+
+<h2 align="center">
+My Stats 📊
+</h2>
+
+<p align="center"> 
+<img align="left" height=200 src="https://github-readme-stats-samurai.vercel.app/api/top-langs/?username=xesdoog&bg_color=000000&hide_border=true&layout=donut&hide_title=true&theme=github_dark"/>
+<img align="right" height=200 src="https://github-readme-stats-samurai.vercel.app/api?username=xesdoog&bg_color=000000&hide_border=true&hide_title=true&hide_rank=false&include_all_commits=true&theme=github_dark"/>
 </p>
