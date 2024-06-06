@@ -1,3 +1,7 @@
+<p align="right"
+  <a href="https://github.com/xesdoog"</a><img src="https://visitcount.itsvg.in/api?id=xesdoog&label=Profile%20Visits&color=12&icon=5&pretty=true"/>
+</p>
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rd3gn3izgynns45ufbicx5jhru&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31rd3gn3izgynns45ufbicx5jhru&redirect=true)
 
 <h1 align="center">
