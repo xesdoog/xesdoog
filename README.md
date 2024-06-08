@@ -53,6 +53,6 @@ Hello! <img src="https://github.com/xesdoog/xesdoog/assets/66764345/060feb2a-b53
 </h2>
 
 <p align="center"> 
-<img align="left" height=200 src="https://github-readme-stats-samurai.vercel.app/api/top-langs/?username=xesdoog&hide=css,scss,autohotkey&bg_color=000000&hide_border=true&layout=donut&hide_title=true&theme=github_dark"/>
+<img align="left" height=200 src="https://github-readme-stats-samurai.vercel.app/api/top-langs/?username=xesdoog&hide=html,scss,autohotkey&bg_color=000000&hide_border=true&layout=donut&hide_title=true&theme=github_dark"/>
 <img align="right" height=200 src="https://github-readme-stats-samurai.vercel.app/api?username=xesdoog&bg_color=000000&hide_border=true&hide_title=true&hide_rank=true&include_all_commits=true&theme=github_dark"/>
 </p>
