@@ -2,6 +2,8 @@
   <a href="https://github.com/xesdoog" /a><img src="https://visitcount.itsvg.in/api?id=xesdoog&label=Profile%20Visits&color=12&icon=5&pretty=true" />
 </p>
 
+![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31rd3gn3izgynns45ufbicx5jhru&cover_image=false&theme=novatorem&show_offline=true&background_color=121212&interchange=false)
+
 <h1 align="center">
 Hello! <img src="https://github.com/xesdoog/xesdoog/assets/66764345/060feb2a-b53b-4634-8e7b-304e3db616f9" />
 </h1>
