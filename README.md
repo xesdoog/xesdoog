@@ -1,8 +1,4 @@
 <p align="left">
-  <a href="https://github.com/xesdoog"/a><img src="https://visitcount.itsvg.in/api?id=xesdoog&label=Profile%20Visits&color=12&icon=5&pretty=true"/>
-</p>
-
-<p align="left">
   <a href="https://github.com/user-attachments/assets/48a9d67f-79da-47fa-9655-ab2ca7aceee5"/a><img align="left" height="70" src="https://github.com/user-attachments/assets/48a9d67f-79da-47fa-9655-ab2ca7aceee5"/>
   <a href="https://open.spotify.com/playlist/79NX2892fh5wUwyUNe4Vne?si=8c97cc86f82f4a07"/a><img align="left" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rd3gn3izgynns45ufbicx5jhru&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false"/>
   <a href="https://store.steampowered.com/"/a><img align="center" height="110" width="300" src="https://steam-readme-nine.vercel.app/status/?steamid=76561198322313818"/>
