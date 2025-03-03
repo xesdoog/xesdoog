@@ -6,6 +6,6 @@
 
 <p align="left">
   <a href="https://github.com/search?q=xesdoog&type=commits"/a><img align="left" height="200" src="https://github-readme-stats-samurai.vercel.app/api/top-langs/?username=xesdoog&hide=html,scss,css&bg_color=000000&hide_border=true&layout=donut&hide_title=true&theme=github_dark"/>
-  <a href="https://github.com/search?q=author%3Axesdoog&type=commits&s=committer-date&o=desc"/a><img align="left" height="200" src="https://github-readme-stats-samurai.vercel.app/api?username=xesdoog&bg_color=000000&hide_border=true&hide_title=true&hide_rank=true&include_all_commits=true&theme=github_dark"/>
+  <a href="https://github.com/search?q=committer%3Axesdoog&type=commits&s=committer-date&o=desc"/a><img align="left" height="200" src="https://github-readme-stats-samurai.vercel.app/api?username=xesdoog&bg_color=000000&hide_border=true&hide_title=true&hide_rank=true&include_all_commits=true&theme=github_dark"/>
 </p>
 
